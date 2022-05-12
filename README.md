@@ -1,6 +1,9 @@
 ![Banner](https://github.com/marioandbri/marioandbri/raw/main/banner.png)
 
-# Welcome to my Github Profile!
+# <img src="https://github.com/marioandbri/marioandbri/raw/main/wave.gif" width="36px" height="36px"/> Welcome to my Github Profile!
+...
+_work in progress_
+
 
 <!--
 **marioandbri/marioandbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
