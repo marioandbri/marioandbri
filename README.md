@@ -1,3 +1,5 @@
+![Banner](https://github.com/marioandbri/marioandbri/raw/main/banner.png)
+
 # Welcome to my Github Profile!
 
 <!--
