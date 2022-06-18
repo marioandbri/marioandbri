@@ -2,7 +2,7 @@
 
 # Welcome! <img src="https://github.com/marioandbri/marioandbri/raw/main/wave.gif" width="36px" height="36px"/>
 
-I'm a self-taught developer, with experience mostly on the operational side of the TI industry (Support, Systems analysis, Server Management...), but always passionate about keeping the work simple, automatizing tasks with scripts and programming solutions that helps me and others at the job, therefore i'm consistently learning about the leading and trending technologies and it's use cases. I'm currently looking to change the lane and land on a software develepment role.
+    I'm a self-taught developer, with experience mostly on the operational side of the TI industry (Support, Systems analysis, Server Management...), but always passionate about keeping the work simple, automatizing tasks with scripts and programming solutions that helps me and others at the job, therefore i'm consistently learning about the leading and trending technologies and it's use cases. I'm currently looking to change the lane and land on a software develepment role.
 
 - 🔭 I’m currently working on:
   - Logistics and Products Management System
