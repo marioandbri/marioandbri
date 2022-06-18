@@ -22,8 +22,6 @@ I'm a self-taught developer, with experience mostly on the operational side of t
 
 ## Tech Stack 👨‍💻
 
----
-
 Some of the tech and tools that i use for developing:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
