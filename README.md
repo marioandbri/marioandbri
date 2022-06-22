@@ -14,7 +14,7 @@ I'm a self-taught developer, with experience mostly on the operational side of t
   - Tailwind CSS
   - Flask
   - Microservices Architecture
-- 👯 I’m looking to collaborate on challenging projects with other developers and collaborate
+- 👯 I’m looking to collaborate on challenging projects with other developers
 - 🤔 I’m looking for help or advices to land a developer role
 - 📫 How to reach me: Send an email at <cl.marioandres@gmail.com> or leave a DM at [@marioandbri](https://twitter.com/marioandbri)
 - ⚡ Fun fact: There will be a ramdon fact about me soon...
